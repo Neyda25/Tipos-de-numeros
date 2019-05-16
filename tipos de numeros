@@ -1,0 +1,27 @@
+numero_entero_p = 8
+print("Yo soy un numero entero positivo", numero_entero_p)
+
+numero_entero_n = -8
+print("Yo soy un numero entero negativo", numero_entero_n)
+
+
+numero_flotante_p = 1.1.3
+print("Yo soy un numero flotante positivo", numero_flotante_p)
+
+numero_flotante_n = -1.1.3
+print("Yo soy un numero flotante negativo", numero_flotante_n)
+
+
+numero_decimal_p = 2.098765
+print("Yo Soy un numero decimal positivo", numero_decimal_p)
+
+numero_decimal_n = -2.098765
+print("Yo soy un numero decimal negativo", numero_decimal_n)
+
+
+numero_doble_p = 20
+print("Yo soy un numero doble positivo", numero_doble_p)
+
+numero_doble_n = -10
+print("Yo soy un numero doble negativo", numero_doble_n)
+
